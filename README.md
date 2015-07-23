@@ -13,6 +13,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * https://www.angel.co/
 * http://sus.io - list the stack you use & your app
 * http://www.betali.st/
+* http://launchlister.com/
 * http://www.romanianstartups.com/
 * http://www.startupli.st/
 * http://www.justgonelive.com/
